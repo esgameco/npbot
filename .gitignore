@@ -1,0 +1,11 @@
+# Secret Files
+.env
+secrets
+
+# Python Environment
+venv
+.pytest_cache
+**/__pycache__/
+
+# VSCode
+.vscode
